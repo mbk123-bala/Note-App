@@ -18,9 +18,7 @@
     </div>
     <div id="main">
     </div>
-    <script src=
-"https://kit.fontawesome.com/bf520e6492.js" 
-            crossorigin="anonymous">
+    <script src= "https://kit.fontawesome.com/bf520e6492.js"crossorigin="anonymous">
       </script>
     <script src="./script.js"></script>
     
